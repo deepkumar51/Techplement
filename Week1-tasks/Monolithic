@@ -1,3 +1,0 @@
-
-For monolithic : 1 EC2 instance, deploy wordpress and MYSQL on the same instances.
-In this setup, both WordPress (the web application) and MySQL (the database) are installed and run on the same EC2 instance.
